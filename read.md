@@ -1,6 +1,6 @@
 # WikiGraph --- Advanced Knowledge Ecosystem
 
-## Project description (320 words)
+## Project description
 
 WikiGraph is a browser-based knowledge exploration dashboard that turns
 Wikipedia topics into an interactive visual network. Instead of reading
