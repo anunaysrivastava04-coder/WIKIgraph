@@ -1,0 +1,26 @@
+## Technologies Used in WikiGraph
+
+| Technology              | Purpose                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------ |
+| HTML5                   | Structures the webpage and dashboard components.                                     |
+| CSS3                    | Provides custom styling, animations, and visual effects.                             |
+| JavaScript              | Handles search functionality, API requests, graph generation, and user interactions. |
+| Tailwind CSS            | Creates responsive layouts and modern UI styling.                                    |
+| Vis Network             | Visualizes topics and their relationships through an interactive graph.              |
+| Wikipedia MediaWiki API | Fetches article summaries and related links.                                         |
+| Font Awesome 6.4.0      | Provides icons for navigation and controls.                                          |
+| Google Fonts (Inter)    | Improves typography and readability.                                                 |
+| Browser LocalStorage    | Saves search history and bookmarked topics locally.                                  |
+| Fetch API               | Retrieves information from Wikipedia.                                                |
+| Netlify                 | Hosts and deploys the website.                                                       |
+
+### Technology categories
+
+- Frontend: HTML, CSS, JavaScript, Tailwind CSS
+- Graph visualization: Vis Network
+- External API: Wikipedia MediaWiki API
+- Browser storage: LocalStorage
+- Icons and fonts: Font Awesome, Google Fonts
+- Deployment: Netlify
+
+Important: The supplied source code confirms the frontend libraries and Wikipedia API. Netlify is the website's hosting platform based on the provided URL. The project does not currently use a dedicated backend, database, or AI/ML model.
