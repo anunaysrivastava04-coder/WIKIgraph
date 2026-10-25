@@ -10,6 +10,9 @@ relationships. The interface is designed for students, researchers,
 developers, and curious learners who want to discover how ideas relate
 to one another.
 
+
+live link -https://wikigraph-search-through-wiki.netlify.app/
+
 The dashboard uses a responsive sidebar, a search bar, topic cards, and
 a large graph workspace. A selected topic appears with its summary,
 estimated reading time, related article links, and a direct link to the
