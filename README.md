@@ -1,4 +1,4 @@
-# WikiGraph --- Advanced Knowledge Ecosystem
+# WikiGraph ---> Advanced Knowledge Ecosystem
 
 ## Project description
 
@@ -158,7 +158,7 @@ recommended refactor, not the existing file layout.
 -   Pin dependency versions and consider npm-based builds for repeatable
     deployments.
 
-## License and attribution
+## License and attribution 
 
 This HTML file uses third-party libraries and a public knowledge API.
 Check the current licenses and usage terms for Vis Network, Tailwind
